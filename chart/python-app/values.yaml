@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: tyrelfecha/python-app
   pullPolicy: IfNotPresent
-  tag: 1dfb4e
+  tag: 6dd6a6
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
